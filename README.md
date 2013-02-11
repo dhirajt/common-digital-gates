@@ -16,7 +16,12 @@ How to use :
 - In every design folder there's a .sp file. Modify the .lib "C:/ .... "
   line in it and put the libraries from the folder <br />
   Generic_025_Kit into a folder.
+  Also modify the Root Path (line 12).
 
+**If there's any error check the .log file.**
+
+
+Contributions are welcome!
 
 **No copyright infringement intended.**
 
